@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {useState} from 'react';
-import MapGL, { Marker} from '!react-map-gl';
+import MapGL, { Marker} from 'react-map-gl';
 
 const longitude1 = -117.93113
 const latitude1 = 33.7032626
